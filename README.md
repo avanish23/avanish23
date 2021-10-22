@@ -24,7 +24,7 @@ I'm a Computer Science Student pursuing my B.Tech from PES University, India. Pa
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="linux" width="40" height="40"/> </a>  
    <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="linux" width="40" height="40"/> </a>   
-   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/tree/master/icons/amazonwebservices" alt="linux" width="40" height="40"/> </a>   
+   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"="linux" width="40" height="40"/> </a>
 </p>
 
 ## ☎️ Contact me 
