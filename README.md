@@ -1,6 +1,8 @@
 # Hello, I am Avanish V Patil <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics. 
+I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.
+
+
 Currently I'm a backend developer at IEEE RAS,PESU and Technical Team Member at The Alcoding Club.
 
 ## 👨‍💻 Languages
