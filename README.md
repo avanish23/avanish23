@@ -3,7 +3,7 @@
 <h2 align="center"> I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.</h2>
 
 - 🕴 Backend Developer at IEEE RAS, PESU
-- 🕴 Technical Team Member at the Alcoding Club
+- 💻 Technical Team Member at the Alcoding Club
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
