@@ -1,7 +1,6 @@
-<h1 align="center"> Hello, I am Avanish V Patil</h1>
+<h1 align="center"> Hello, I am Avanish Patil</h1>
 
-<h2 align="center"> I'm a Computer Science Student pursuing my B.Tech from PES University, India. Passionate about Web development and Data analytics.</h2>
-
+- 💻 Software Engineer at Cloudera
 - 🕴 Backend Developer at IEEE RAS, PESU
 - 💻 Technical Team Member at the Alcoding Club
 
