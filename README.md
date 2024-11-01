@@ -1,8 +1,7 @@
 <h1 align="center"> Hello, I am Avanish Patil</h1>
 
 - 💻 Software Engineer at Cloudera
-- 🕴 Backend Developer at IEEE RAS, PESU
-- 💻 Technical Team Member at the Alcoding Club
+
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
